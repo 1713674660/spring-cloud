@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="178d146d-3208-4c1f-be49-9f87ba751a1f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-common/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider8081/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-customer/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-customer8082/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka8091/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-eureka8091/src/main/java/com/zc/exercise/eureka8091/Eureka8091Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloud-eureka8091/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/Provider8081Application.java" />
+        <option value="$PROJECT_DIR$/cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-common/src/main/java/com/zc/exercise/common/domain/User.java" />
+        <option value="$PROJECT_DIR$/cloud-provider8081/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/service/UserService.java" />
+        <option value="$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/cloud-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-customer8082/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-customer8082/src/main/java/com/zc/exercise/customer8082/Customer8082Application.java" />
+        <option value="$PROJECT_DIR$/cloud-customer8082/src/main/java/com/zc/exercise/customer8082/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/cloud-customer8082/src/main/java/com/zc/exercise/customer8082/controller/CustomUserController.java" />
+        <option value="$PROJECT_DIR$/cloud-customer8082/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cloud-provider8081/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/provider8081/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/provider8081/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/cloud-eureka8091/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka8091/src/main/java/com/zc/exercise/eureka8091/Eureka8091Application.java" />
+        <option value="$PROJECT_DIR$/cloud-eureka8091/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/idea/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\idea\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-customer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-customer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-eureka8091" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-eureka8091" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-eureka8091" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.cloud:spring-cloud-starter-eureka-server:1.4.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-eureka8091" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.cloud:spring-cloud-starter-eureka-server:1.4.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:1.4.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-provider8081" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-provider8081" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-provider8081" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.zc.exercise:cloud-common:1.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="396" />
+    <option name="y" value="14" />
+    <option name="width" value="1034" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="customer8082" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-customer8082" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-eureka8091" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-eureka8091" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-eureka8091" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-eureka8091" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-eureka8091" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8091" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-eureka8091" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider8081" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574761489866" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_201" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.23809524" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Provider8081Application">
+    <configuration name="Customer8082Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-customer8082" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.exercise.customer8082.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.exercise.customer8082.Customer8082Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8081Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider8081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.exercise.provider8081.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.exercise.provider8081.Provider8081Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Provider8081Application" />
+        <item itemvalue="Spring Boot.Customer8082Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178d146d-3208-4c1f-be49-9f87ba751a1f" name="Default Changelist" comment="" />
+      <created>1574750880603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574750880603</updated>
+      <workItem from="1574750883545" duration="11192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11192000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run Dashboard" visible="true" weight="0.29469123" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.18496802" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cloud-provider8081/src/main/resources/application.propertiest.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider8081/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-common/src/main/java/com/zc/exercise/common/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/idea/IdeaMavenRepository/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/idea/IdeaMavenRepository/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="193" column="26" lean-forward="true" selection-start-line="193" selection-start-column="26" selection-end-line="193" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/idea/IdeaMavenRepository/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE-sources.jar!/org/springframework/http/client/ClientHttpRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-customer8082/src/main/java/com/zc/exercise/customer8082/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-customer8082/src/main/java/com/zc/exercise/customer8082/Customer8082Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-customer8082/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/provider8081/Provider8081Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-customer8082/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/provider8081/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider8081/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-customer8082/src/main/java/com/zc/exercise/customer8082/controller/CustomUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/provider8081/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="20" column="90" selection-start-line="20" selection-start-column="90" selection-end-line="20" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider8081/src/main/java/com/zc/exercise/provider8081/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka8091/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka8091/src/main/java/com/zc/exercise/eureka8091/Eureka8091Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka8091/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cloud-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
